@@ -1,0 +1,28 @@
+{
+  "name": "vue-cuba-entity-list",
+  "version": "0.1.0",
+  "description": "Vue mixin for cuba entities list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emericanec/vue-cuba-entity-list.git"
+  },
+  "keywords": [
+    "Vue",
+    "mixin",
+    "cuba",
+    "platform"
+  ],
+  "author": "emericanec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emericanec/vue-cuba-entity-list/issues"
+  },
+  "homepage": "https://github.com/Emericanec/vue-cuba-entity-list#readme",
+  "dependencies": {
+    "vue-cuba-app": "^0.1.2"
+  }
+}
