@@ -1,7 +1,7 @@
 **Install:**
 
 ```
-npm install vue-cuba-app@0.1.2 --save
+npm install vue-cuba-entity-list@0.1.1 --save
 ```
 
 **How to use:**
